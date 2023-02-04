@@ -1,0 +1,19 @@
+Total number of users:            2
+Total number of tasks:            3
+See below for information on assigned tasks, if user information is not present then no tasks have been asigned.
+
+User: admin
+-------------------
+User tasks:                    2
+Percentage of total tasks:     66.67
+Percentage of completed tasks: 0.00
+Percentage incomplete tasks:   100.00
+Percentage of overdue tasks:   100.00
+
+User: newUser
+-------------------
+User tasks:                    1
+Percentage of total tasks:     33.33
+Percentage of completed tasks: 0.00
+Percentage incomplete tasks:   100.00
+Percentage of overdue tasks:   0.00
